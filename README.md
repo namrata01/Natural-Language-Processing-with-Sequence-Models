@@ -1,1 +1,1 @@
-# NLP-with-Sequence-Models
+# Natural Language Processing with Sequence Models
